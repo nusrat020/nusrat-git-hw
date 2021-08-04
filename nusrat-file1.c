@@ -2,6 +2,7 @@
 int main()
 {
 char* nusrat(){
- return "nusrat";
+    int a = 10;
+ return "nusrat zahan elma";
 }
 }
